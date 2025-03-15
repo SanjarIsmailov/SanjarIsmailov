@@ -21,7 +21,7 @@
 
 ## 📌 Featured Projects
 🔹 **[Water Delivery System](https://github.com/SanjarIsmailov/water-delivery-pdp)** – Java Spring Boot backend for water delivery. 
-🔹 **[Tez Yetkaz](https://github.com/SanjarIsmailov/tezyetkaz)** – Delivery service backend in Django.  
+🔹 **[Tez Yetkaz]()** – Delivery service backend in Django.  
 
 ---
 
