@@ -7,11 +7,13 @@
 
 🛠 Tech Stack
 <p align="center"> <img src="https://skillicons.dev/icons?i=java,spring,python,django,postgres,docker,git,aws" /> </p>
-<hr>
+<br>
 🚀 Featured Projects
-<hr>
+<br>
 📦 Water Delivery System – A Java Spring Boot backend for efficient water delivery.
+<br>
 🚀 Tez Yetkaz – A Django-based backend for a fast delivery service.
+<br>
 
 📊 GitHub Stats
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SanjarIsmailov&show_icons=true&theme=radical&hide_border=true" height="180" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=SanjarIsmailov&theme=radical&hide_border=true" height="180" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanjarIsmailov&layout=compact&theme=radical&hide_border=true" height="180" /> </div>
