@@ -7,7 +7,9 @@
 
 🛠 Tech Stack
 <p align="center"> <img src="https://skillicons.dev/icons?i=java,spring,python,django,postgres,docker,git,aws" /> </p>
+<hr>
 🚀 Featured Projects
+<hr>
 📦 Water Delivery System – A Java Spring Boot backend for efficient water delivery.
 🚀 Tez Yetkaz – A Django-based backend for a fast delivery service.
 
