@@ -14,7 +14,7 @@
 
 💡 Passionate about building **scalable, efficient, and secure** backend solutions.  
 📌 Skilled in **Java (Spring Boot)** and **Python (Django)** with expertise in **REST APIs & Microservices**.  
-🎯 Aspiring to become a **Software Engineer at EPAM Uzbekistan & Google**.  
+🎯 Aspiring to become a **senior Software Engineer**.  
 ⚡ Always **learning and exploring** new technologies.  
 
 ---
