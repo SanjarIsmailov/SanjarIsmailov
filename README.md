@@ -5,7 +5,7 @@
 </div> 
 
 <p align="center"> 
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=500&color=F7A41D&center=true&vCenter=true&width=700&lines=Backend+Developer+%7C+Java+%26+Python;Spring+Boot+%7C+Django+%7C+REST+APIs;Building+Scalable+Backend+Solutions;Aspiring+Software+Engineer+at+EPAM+%26+Google" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=500&color=F7A41D&center=true&vCenter=true&width=700&lines=Backend+Developer+%7C+Java+%26+Python;Spring+Boot+%7C+Django+%7C+REST+APIs;Building+Scalable+Backend+Solutions;Aspiring+Senior+Software+Engineer+" />
 </p>
 
 ---
@@ -14,7 +14,7 @@
 
 💡 Passionate about building **scalable, efficient, and secure** backend solutions.  
 📌 Skilled in **Java (Spring Boot)** and **Python (Django)** with expertise in **REST APIs & Microservices**.  
-🎯 Aspiring to become a **senior Software Engineer**.  
+🎯 Aspiring to become a **Senior Software Engineer**.  
 ⚡ Always **learning and exploring** new technologies.  
 
 ---
