@@ -36,13 +36,6 @@
 
 ---
 
-## 🎯 Goals
-
-- Become a strong backend Software Engineer  
-- Specialize in Cybersecurity  
-- Build reliable and secure systems  
-
----
 
 ## 📊 GitHub Stats
 
