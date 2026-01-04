@@ -20,6 +20,7 @@
 **Languages & Frameworks**
 - Java (Spring Boot)
 - Python (Django)
+- C++
 
 **Backend & Tools**
 - REST APIs
