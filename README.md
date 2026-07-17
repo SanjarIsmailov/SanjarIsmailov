@@ -86,6 +86,4 @@
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=SanjarIsmailov&style=for-the-badge&color=2E86C1)
-
 </div>
