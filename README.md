@@ -4,8 +4,6 @@
 
 ### Java & Python Software Engineer | Cybersecurity Specialist
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2E86C1&center=true&vCenter=true&width=500&lines=Backend+Engineer;Secure+%26+Scalable+Systems;Java+%7C+Python+%7C+Cybersecurity" alt="Typing SVG" />
-
 </div>
 
 <br>
