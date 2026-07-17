@@ -72,14 +72,14 @@
 <br>
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=SanjarIsmailov&show_icons=true&theme=radical&hide_border=true" alt="Sanjar's GitHub Stats" />
-  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=SanjarIsmailov&theme=radical&hide_border=true" alt="Sanjar's GitHub Streak" />
+  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SanjarIsmailov&show_icons=true&theme=radical&hide_border=true" alt="Sanjar's GitHub Stats" />
+  <img height="165em" src="https://streak-stats.demolab.com?user=SanjarIsmailov&theme=radical&hide_border=true" alt="Sanjar's GitHub Streak" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanjarIsmailov&layout=compact&theme=radical&hide_border=true" alt="Sanjar's Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SanjarIsmailov&layout=compact&theme=radical&hide_border=true" alt="Sanjar's Top Languages" />
 </div>
 
 <br>
