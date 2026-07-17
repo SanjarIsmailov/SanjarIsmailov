@@ -73,7 +73,6 @@
 
 <div align="center">
   <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SanjarIsmailov&show_icons=true&theme=radical&hide_border=true" alt="Sanjar's GitHub Stats" />
-  <img height="165em" src="https://streak-stats.demolab.com?user=SanjarIsmailov&theme=radical&hide_border=true" alt="Sanjar's GitHub Streak" />
 </div>
 
 <br>
