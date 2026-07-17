@@ -1,45 +1,78 @@
 <div align="center">
-  <h1>Hi, I'm <b>Sanjar</b></h1>
-  <h3>Java & Python Software Engineer | Cybersecurity Specialist</h3>
+
+# Hi 👋, I'm Sanjar
+
+### Java & Python Software Engineer | Cybersecurity Specialist
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2E86C1&center=true&vCenter=true&width=500&lines=Backend+Engineer;Secure+%26+Scalable+Systems;Java+%7C+Python+%7C+Cybersecurity" alt="Typing SVG" />
+
 </div>
 
----
+<br>
 
 ## 👨‍💻 About Me
 
-- Backend-focused Software Engineer  
-- Experience with **Java** and **Python**  
-- Build **secure, scalable, and maintainable** systems  
-- Strong interest in **Cybersecurity & Application Security**  
-- Experienced in **REST APIs** and backend architecture  
+- 🔭 Backend-focused Software Engineer
+- ☕ Experience with **Java** and **Python**
+- 🏗️ Build **secure, scalable, and maintainable** systems
+- 🛡️ Strong interest in **Cybersecurity & Application Security**
+- 🌐 Experienced in **REST APIs** and backend architecture
 
----
+<br>
 
 ## 🛠 Tech Stack
 
+<table>
+<tr>
+<td valign="top" width="33%">
+
 **Languages & Frameworks**
-- Java (Spring Boot)
-- Python (Django)
-- C++
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+
+</td>
+<td valign="top" width="33%">
 
 **Backend & Tools**
-- REST APIs
-- PostgreSQL, MongoDB, Oracle
-- Docker
-- Git
-- AWS (basic)
+
+<img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+
+</td>
+<td valign="top" width="33%">
 
 **Cybersecurity**
-- Secure coding practices
-- Authentication & Authorization
-- API Security
-- OWASP principles
 
----
+<img src="https://img.shields.io/badge/Secure%20Coding-4B0082?style=for-the-badge&logo=protonvpn&logoColor=white" />
+<img src="https://img.shields.io/badge/Auth%20%26%20Authorization-8A2BE2?style=for-the-badge&logo=auth0&logoColor=white" />
+<img src="https://img.shields.io/badge/API%20Security-800080?style=for-the-badge&logo=letsencrypt&logoColor=white" />
+<img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
 
+</td>
+</tr>
+</table>
+
+<br>
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SanjarIsmailov&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SanjarIsmailov&theme=radical" alt="Sanjar's GitHub Profile Details" />
+</div>
+
+<br>
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=SanjarIsmailov&style=for-the-badge&color=2E86C1)
+
 </div>
