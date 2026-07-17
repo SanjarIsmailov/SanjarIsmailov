@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Sanjar
+# Hi, I'm Sanjar
 
 ### Java & Python Software Engineer | Cybersecurity Specialist
 
