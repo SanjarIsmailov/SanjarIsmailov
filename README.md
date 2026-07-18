@@ -75,10 +75,6 @@
 
 <br>
 
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SanjarIsmailov&layout=compact&theme=radical&hide_border=true" alt="Sanjar's Top Languages" />
-</div>
-
 <br>
 
 <div align="center">
