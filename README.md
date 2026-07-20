@@ -16,6 +16,7 @@ Backend Software Engineer focused on building scalable, reliable, and secure bac
 
 * Java
 * Python
+* C++
 
 **Frameworks**
 
@@ -25,7 +26,9 @@ Backend Software Engineer focused on building scalable, reliable, and secure bac
 **Databases**
 
 * PostgreSQL
+* MySQL
 * MongoDB
+* Oracle
 
 **Tools**
 
